@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKN_HandwritingRecognition", "AKN_HandwritingRecognition.csproj", "{9E6E1846-5F59-ED53-B032-2A823637EC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKN_HandwritingRecognition.Editor", "AKN_HandwritingRecognition.Editor.csproj", "{0775C073-EDCB-DBC6-3061-3441B06CB7AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E6E1846-5F59-ED53-B032-2A823637EC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6E1846-5F59-ED53-B032-2A823637EC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6E1846-5F59-ED53-B032-2A823637EC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6E1846-5F59-ED53-B032-2A823637EC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0775C073-EDCB-DBC6-3061-3441B06CB7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0775C073-EDCB-DBC6-3061-3441B06CB7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0775C073-EDCB-DBC6-3061-3441B06CB7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0775C073-EDCB-DBC6-3061-3441B06CB7AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
