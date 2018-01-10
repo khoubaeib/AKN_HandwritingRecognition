@@ -1,0 +1,1 @@
+# AKN_HandwritingRecognition
