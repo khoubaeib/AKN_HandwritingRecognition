@@ -6,7 +6,7 @@ This project is a plugin made in Unity 3D that create, manage and recognise a ge
 
 ## Full Description
 
-This Project is part from AKeNe library created by [Cédric Plessiet](mailto:cedric.plessiet@univ-paris8.fr) in INREV Laboratory in Paris 8 University. The library is designed to contains major solutions that researchers use to devleop virtual reality applications. It simplify the creation of many complex data structures and the use of algorithmes related to them.
+This Project is part from AKeNe library created by [CÃ©dric Plessiet](mailto:cedric.plessiet@univ-paris8.fr) in INREV Laboratory in Paris 8 University. The library is designed to contains major solutions that researchers use to develop virtual reality applications. It simplify the creation of many complex data structures and the use of algorithmes related to them.
 
 My contribution to AKeNe library was to implement HMM(Hidden Markov Model) data structure and the way to create it and use it. And as an exemple of use, I created a plugin in Unity 3D that use HMM to present a 2D gesture, to learn it and to recognise it when it is drawn.
 
@@ -23,5 +23,5 @@ My contribution to AKeNe library was to implement HMM(Hidden Markov Model) data 
 
 ## Authors
 
-* **Cédric Plessiet** - *Initial work* - [Ze Taupe](mailto:cedric.plessiet@univ-paris8.fr)
+* **CÃ©dric Plessiet** - *Initial work* - [Ze Taupe](mailto:cedric.plessiet@univ-paris8.fr)
 * **Khoubaeib Klai** - [Khoubaeib](https://github.com/khoubaeib)
