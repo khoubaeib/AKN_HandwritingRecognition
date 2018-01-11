@@ -23,5 +23,5 @@ My contribution to AKeNe library was to implement HMM(Hidden Markov Model) data 
 
 ## Authors
 
+* **Khoubaeib Klai** - *HMM class and Unity 3D plugin* - [Khoubaeib](https://github.com/khoubaeib)
 * **Cédric Plessiet** - *Initial work* - [Ze Taupe](mailto:cedric.plessiet@univ-paris8.fr)
-* **Khoubaeib Klai** - [Khoubaeib](https://github.com/khoubaeib)
